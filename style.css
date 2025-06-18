@@ -1,0 +1,4 @@
+.chat-container { padding: 10px; background: #eee; height: 400px; overflow-y: auto; }
+.input-area { display: flex; padding: 10px; background: #ddd; }
+input { flex: 1; padding: 10px; }
+button { padding: 10px; background-color: #007bff; color: white; border: none; }
